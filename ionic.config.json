@@ -1,5 +1,7 @@
 {
   "name": "Lab-Ionic-Camera",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
